@@ -1,2 +1,1 @@
-# http://anirudhajain.tech
-Personal website
+metalheadani.github.io
