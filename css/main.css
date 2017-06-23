@@ -1,10 +1,11 @@
 /* ---- particles.js container ---- */
-body{background: cornflowerblue;}
+body{background: #201f20;}
 		#logo{margin: 0 auto; text-align: center; margin-top:400px; margin-left: 630px;position: absolute;}
-/* #particles-js{
-  width: 100%;
-  
-  background-image: url('');
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-}  */
+.coming_soon{
+  font-size: 25px;
+  font-family: cursive;
+  position: absolute;
+  color: #6673AA;
+  top: 10%;
+  left: 25%;
+}
