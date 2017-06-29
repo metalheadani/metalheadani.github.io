@@ -1,6 +1,6 @@
 /* ---- particles.js container ---- */
 body{
-	background-image: url(../image/download3.jpg);
+  background-image: url(../image/download3.jpg);
   background-size:     cover;
   background-repeat:   no-repeat;
   background-position: center center;
@@ -66,13 +66,12 @@ body{
     100% { opacity:1; }
 }
 
-
-#typed{
+#about .fixed{
   font-size: 25px;
-  font-family: cursive;
+  font-family: verdana;
   position: absolute;
   color: #FFFFFF;
-  bottom: 49%;
+  bottom: 45%;
   left: 40%;
   display: inline;
 }
